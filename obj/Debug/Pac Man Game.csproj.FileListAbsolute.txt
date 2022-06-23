@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\Pac Man Game\bin\Debug\Pac Man Game.exe.config
+C:\Users\DELL\source\repos\Pac Man Game\bin\Debug\Pac Man Game.exe
+C:\Users\DELL\source\repos\Pac Man Game\bin\Debug\Pac Man Game.pdb
+C:\Users\DELL\source\repos\Pac Man Game\obj\Debug\Pac Man Game.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Pac Man Game\obj\Debug\Pac Man Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\Pac Man Game\obj\Debug\Pac_Man_Game.Form1.resources
+C:\Users\DELL\source\repos\Pac Man Game\obj\Debug\Pac_Man_Game.Properties.Resources.resources
+C:\Users\DELL\source\repos\Pac Man Game\obj\Debug\Pac Man Game.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Pac Man Game\obj\Debug\Pac Man Game.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Pac Man Game\obj\Debug\Pac Man Game.exe
+C:\Users\DELL\source\repos\Pac Man Game\obj\Debug\Pac Man Game.pdb
